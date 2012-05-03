@@ -7,6 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Tiago Franco"]
   s.email       = 'gama.franco@gmail.com'
   s.files       = ["lib/quiiq_service.rb"]
-  s.homepage    =
+  s.homepage    = 'https://github.com/gamafranco/quiiq'
     'http://rubygems.org/gems/quiiq'
 end
