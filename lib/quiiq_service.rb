@@ -1,3 +1,5 @@
+require 'savon'
+
 class QuiiqService
 
   def initialize(quiiq_server_url, username, password)

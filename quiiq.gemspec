@@ -3,7 +3,7 @@ require 'date'
 
 Gem::Specification.new do |s|
   s.name        = 'quiiq'
-  s.version     = '0.0.1'
+  s.version     = '0.0.2'
   s.date        = Date.today.to_s
   s.summary     = "Ruby QUIIQ wrapper."
   s.description = <<-desc
